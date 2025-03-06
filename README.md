@@ -1,4 +1,4 @@
-<h1 align="center">ES211a - Technopreneurship<h1>
+<h1 align="center">ES211a - Technopreneurship</h1>
 
 ## Group 4 Members
 
