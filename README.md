@@ -1,10 +1,26 @@
-# technopreneurship
+<h1 align="center">ES211a - Technopreneurship<h1>
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+## Group 4 Members
 
-ES211a - Technopreneurship
+- Frency Rayne Montesclaros
+- Dane Casiño
+- [Chris Andrei Irag](https://github.com/iragca)
+- Christine Sorronda
+- Genheylou Felisilda
+- Jezzel Faith Gier
+
+
+## How to work with this repository
+
+1. `pip install uv`
+2. `uv sync`
+
+### Generate basic plots
+
+Word clouds for each questions
+```
+uv run technopreneurship/plots.py
+```
 
 ## Project Organization
 
