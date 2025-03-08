@@ -19,7 +19,7 @@
 
 Word clouds for each questions
 ```
-uv run technopreneurship/plots.py
+uv run technopreneurship/plots.py --top-n <optional; default: 10>
 ```
 
 ## Project Organization
