@@ -29,7 +29,7 @@ patch.facecolor: gray
 
 ## https://arxiv.org/abs/2107.02270 - Color source
 ## https://github.com/mpetroff/accessible-color-cycles
-axes.prop_cycle: cycler(color=["#5790fc", "#f89c20", "#e42536", "#964a8b", "#9c9ca1", "#7a21dd"])
+axes.prop_cycle: cycler(color=["#5790fc", "#f89c20", "#e42536", "#964a8b", "#9c9ca1", "#7a21dd", ])
 # axes.prop_cycle: cycler(color=["#1845fb", "#ff5e02", "#c91f16", "#c849a9", "#adad7d", "#86c8dd", "#578dff", "#656364"])
 # axes.prop_cycle: cycler(color=["#3f90da", "#ffa90e", "#bd1f01", "#94a4a2", "#832db6", "#a96b59", "#e76300", "#b9ac70", "#717581", "#92dadd"])
 
